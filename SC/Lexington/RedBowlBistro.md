@@ -1,7 +1,8 @@
 # Red Bowl Bistro Lexington Sushi Menu
 ## Lexington, South Carolina 
 
-(S) NIGIRI SUSHI OR SASHIMI
+### (S) NIGIRI SUSHI OR SASHIMI
+
 Nigiri Sushi: with rice / Sashimi: riceless
 - [ ] Crab  $4.75
 - [ ] Shrimp  $4.95
@@ -22,7 +23,8 @@ Nigiri Sushi: with rice / Sashimi: riceless
 - [ ] Salmon Roe $5.75
 - [ ] Scallop $6.50
 
-(S) CONE STYLE HAND ROLLS
+### (S) CONE STYLE HAND ROLLS
+
 Ingredients are placed on a sheet of Nori (seaweed) then rolled and shaped into a cone.
 - [ ] Tuna Hand Roll $5.50
 - [ ] Spicy Tuna Hand Roll $5.95
@@ -30,7 +32,7 @@ Ingredients are placed on a sheet of Nori (seaweed) then rolled and shaped into 
 - [ ] Salmon Hand Roll $5.25
 - [ ] Yellowtail Hand Roll $6.75
 
-(S) HOUSE ROLLS
+### (S) HOUSE ROLLS
 - [ ] Salmon Skin Roll $4.95
 - [ ] Vegetable Roll $4.75
 - [ ] Salmon Roll $5.25
@@ -52,14 +54,14 @@ Ingredients are placed on a sheet of Nori (seaweed) then rolled and shaped into 
 - [ ] BBQ Eel and Avocado Roll $7.25
 - [ ] Spicy Yellowtail Roll $6.95
 
-(S) SUSHI PLATE
+### (S) SUSHI PLATE
 - [ ] Tuna and Salmon Roll
 - [ ] 6 pieces of Tuna Roll and 6 pieces of Salmon Roll. $9.50
 - [ ] Spicy Roll 6 pieces of Spicy Tuna Roll and 6 pieces of Spicy Salmon Roll. $10.95
 - [ ] Sushi Roll 3 pieces of Tuna Roll, 3 pieces of Salmon Roll and 3 pieces of California Roll. $10.95
 - [ ] No Raw Sushi Plate Nigiri sushi (shrimp, crab meat, eel, omelet, octopus, smoked salmon) and 6 pieces of California Roll. $17.95
 
-(S) SUSHI & SASHIMI COMBINATION
+### (S) SUSHI & SASHIMI COMBINATION
 - [ ] Chirashi Mixed selection of 6 kinds of sashimi placed on top of rice. $22.95
 - [ ] Sushi Combo A Mixed selection of 6 pieces of Nigiri sushi and 6 pieces of California Roll. $17.95
 - [ ] Sushi Combo B Mixed selection of 9 pieces of Nigiri sushi and 6 pieces of California Roll $19.95
@@ -67,7 +69,7 @@ Ingredients are placed on a sheet of Nori (seaweed) then rolled and shaped into 
 - [ ] Sushi Boat (For 2) Mixed selection of 4 kinds of sashimi, 10 pieces of Nigiri sushi and 6 pieces of California Roll $44.95
 - [ ] Sushi Boat (For 4) Mixed selection of 8 kinds of sashimi, 20 pieces of Nigiri sushi and 12 pieces of California Roll and Tuna Roll. $79.95
 
-(S) SPECIALTY ROLLS
+### (S) SPECIALTY ROLLS
 - [ ] Super Crunch Tempura flakes mixed with masago and spicy mayo inside. Top - smoked salmon and eel sauce $9.50
 - [ ] Rock Roll Fried Tempura crab meat, cream cheese and avocado. Topped with eel sauce. $10.50
 - [ ] Alamo Roll Fried Spicy yellowtail, jalapeño, and cream cheese\. Topped with eel sauce. $10.75
