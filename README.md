@@ -1,6 +1,4 @@
-# Ralph Hightower Sushi Repository 
-
-Will build on Sushi recipes and have checklists of menu items from Sushi restaurants. 
+This will have checklists of menu items from Sushi restaurants.
 
 |   |
 |---|
