@@ -1,8 +1,10 @@
 # [Camon Japanese Restaurant](https://www.camonjapaneserestaurant.com/)
 
-## Menu
+## Columbia, South Carolina 
 
-### Appetizers
+### Menu
+
+#### Appetizers
 
 - [ ] Egg Roll $8.00
 - [ ] Edamame $7.00
@@ -19,7 +21,7 @@
 - [ ] Tako Yaki (8 pc) $10.00
 - [ ] Tuna Tataki $18.00
 
-### Soups, Salads, Sides
+#### Soups, Salads, Sides
 
 - [ ] Misoshiru $3.50
 - [ ] Osumashi $3.50
@@ -29,7 +31,7 @@
 - [ ] Steamed White Rice $3.00
 - [ ] Sushi Rice $4.00
 
-### Nigiri 2pc/Sashimi 5pc
+#### Nigiri 2pc/Sashimi 5pc
 
 - [ ] Scallop $8.00/$20.00
 - [ ] Tilapia $6.00/$15.00
@@ -48,7 +50,7 @@
 - [ ] Unagi (Eel) $8.00/$20.00
 - [ ] Anago (Sea Eel) $10.00/$25.00
 
-### Makimono- Camon House Rolls
+#### Makimono- Camon House Rolls
 - [ ] Tekka (Tuna Roll) $7.00
 - [ ] Sake (Salmon Roll) $7.00
 - [ ] Hamachi (Yellowtail Roll) $7.00
@@ -59,7 +61,7 @@
 - [ ] Eel Roll $10.00
 - [ ] Philadelphia Roll $9.50
 
-### Makimono- Veggie Rolls
+#### Makimono- Veggie Rolls
 
 - [ ] Spicy Tempura Asparagus Roll $6.00
 - [ ] Veggie Tempura Roll $8.50
@@ -83,7 +85,7 @@
 - [ ] Spider Roll $12.00
 - [ ] Dragon Roll Special $17.00
 
-### Entrees
+#### Entrees
 
 - [ ] Tempura Udon/Soba $20.00
 - [ ] Tonkatsu Japanese Curry $22.00
@@ -100,7 +102,7 @@
 - [ ] Tonkatsu $20.00
 - [ ] Sarua Soba $10.00
 
-### Dessert
+#### Dessert
 
 - [ ] Mochi Ice Cream (assorted flavors) $3.25
 - [ ] Vanilla Ice Cream with Azuki Bean $3.50

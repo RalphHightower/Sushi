@@ -1,7 +1,9 @@
 # Red Bowl Bistro Sandhills Sushi Menu
+
 ## Sandhills Shopping Center, Columbia, South Carolina 
 
-Nigeri Sushi (2 pcs per order.) (Sashimi $1.00 extra)
+### Nigeri Sushi (2 pcs per order.) (Sashimi $1.00 extra)
+
 - [ ] Omelet (Tamago) $3.95
 - [ ] Crab (Kanikama) $4.50
 - [ ] Mackerel (Saba) $4.95
@@ -21,8 +23,10 @@ Nigeri Sushi (2 pcs per order.) (Sashimi $1.00 extra)
 - [ ] Salmon Roe (Ikura) $7.25
 - [ ] Sweet Shrimp (Amaebi)(1 pc) $6.95
 
-Basic Roll (6pcs-8pcs)
-Vegetarian/ Cooked Roll
+### Basic Roll (6pcs-8pcs)
+
+#### Vegetarian/ Cooked Roll
+
 - [ ] Avocado Roll $4.75
 - [ ] Cucumber Roll $4.75
 - [ ] Salmon Skin Roll $4.75
@@ -43,7 +47,8 @@ Vegetarian/ Cooked Roll
 - [ ] Spider Roll Fried soft shell crab, lettuce, spicy mayo and smelt roe $11.95
   Power Roll Shrimp, Tempura inside, eel & smelt roe on top with eel sauce. $10.75
 
-RAW ROLL
+#### RAW ROLL
+
 - [ ] Salmon Roll $6.95
 - [ ] Spicy Salmon Roll $7.25
 - [ ] Yellow Tail w. Scallion Roll $7.25
@@ -79,8 +84,9 @@ House Special Roll/Maki (6pcs - 10pcs)
 - [ ] Carolina Roll Crabmeat, cream cheese, cucumber, spicy mayo with shredded crabmeat, topped with Salmon, masago, scallion & mayo. $16.25
 - [ ] Lobster Supreme Lobster salad, crab, cucumber topped with shrimp tempura and avocado with spicy mayo. $14.95
 
-Combo Plates
-Sushi Combo with miso soup or green salad
+### Combo Plates
+
+#### Sushi Combo with miso soup or green salad
 - [ ] Sushi Combo Chef's Choice of 6 pieces of nigiri sushi & California roll. $17.95
 - [ ] Sushi Boat Chef's Choice of 9 pieces of nigiri & California roll $21.50
 - [ ] Sushi and Sashimi Combo Chef's choice of 4 kinds of sashimi, 5 pieces of nigiris and California roll. $30.25
