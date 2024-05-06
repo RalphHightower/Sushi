@@ -54,7 +54,7 @@ plugins:
 titles_from_headings:
   enabled: true
   strip_title: false
-  collections: false
+  collections: true
   
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
