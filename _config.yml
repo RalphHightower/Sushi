@@ -10,7 +10,9 @@ author:
   country: United States of America
   #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
-  This website will have Sushi, Sashimi menu items and checklists of items.
+  For the Columbia, South Carolina metro area (Richland & Lexington counties), this non-code repository has checklists of 
+  sushi menus for sushi restaurants in the area. This enables me, @RalphHightower, to check off items that I have eaten and 
+  try new sushi and sashimi menu items.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
