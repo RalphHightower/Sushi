@@ -2,6 +2,10 @@
 
 This will have checklists of menu items from Sushi restaurants.
 
+- [Sushi/SC/Columbia/CamonJapanese](https://github.com/RalphHightower/Sushi/blob/RalphHightower-patch-4/SC/Columbia/CamonJapanese.md)
+- [Sushi/SC/Columbia/SandhillsShoppingCenter/RedBowlBistro](https://github.com/RalphHightower/Sushi/blob/RalphHightower-patch-4/SC/Columbia/SandhillsShoppingCenter/RedBowlBistro.md)
+- [Sushi/SC/Lexington/RedBowlBistro](https://github.com/RalphHightower/Sushi/blob/RalphHightower-patch-4/SC/Lexington/RedBowlBistro.md)
+
 |   |
 |---|
 | ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
