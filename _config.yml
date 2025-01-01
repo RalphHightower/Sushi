@@ -10,9 +10,7 @@ author:
   country: United States of America
   #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
-  For the Columbia, South Carolina metro area (Richland & Lexington counties), this non-code repository has checklists of 
-  sushi menus for sushi restaurants in the area. This enables me, @RalphHightower, to check off items that I have eaten and 
-  try new sushi and sashimi menu items.
+  For the Columbia, South Carolina metro area (Richland & Lexington counties), this non-code repository has checklists of sushi menus for sushi restaurants in the area. This enables me, @RalphHightower, to check off items that I have eaten and try new sushi and sashimi menu items. Just website. No code, no libraries, applications.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 repository: 'RalphHightower/blog'
