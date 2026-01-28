@@ -1,0 +1,30 @@
+{
+  "name": "sushi",
+  "version": "1.0.0",
+  "description": "For the Columbia, South Carolina metro area (Richland & Lexington counties), this non-code repository has checklists of sushi menus for sushi restaurants in the area. This enables me, @RalphHightower, to check off items that I have eaten and try new sushi and sashimi menu items. Just website. No code, no libraries, applications.",
+  "keywords": [
+    "sushi",
+    "sashimi",
+    "ralphhightower",
+    "columbia-south-carolina-metro-area",
+    "sushi-restaurants",
+    "richland-county",
+    "lexington-county",
+    "japanese-cuisine"
+  ],
+  "homepage": "https://github.com/RalphHightower/Sushi#readme",
+  "bugs": {
+    "url": "https://github.com/RalphHightower/Sushi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RalphHightower/Sushi.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Ralph Hightower",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
