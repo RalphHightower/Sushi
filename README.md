@@ -2,9 +2,9 @@
 
 This will have checklists of menu items from Sushi restaurants.
 
-- [Sushi/SC/Columbia/CamonJapanese](https://github.com/RalphHightower/Sushi/blob/RalphHightower-patch-4/SC/Columbia/CamonJapanese.md)
-- [Sushi/SC/Columbia/SandhillsShoppingCenter/RedBowlBistro](https://github.com/RalphHightower/Sushi/blob/RalphHightower-patch-4/SC/Columbia/SandhillsShoppingCenter/RedBowlBistro.md)
-- [Sushi/SC/Lexington/RedBowlBistro](https://github.com/RalphHightower/Sushi/blob/RalphHightower-patch-4/SC/Lexington/RedBowlBistro.md)
+- [Sushi/SC/Columbia/CamonJapanese](SC/Columbia/CamonJapanese.md)
+- [Sushi/SC/Columbia/SandhillsShoppingCenter/RedBowlBistro](SC/Columbia/SandhillsShoppingCenter/RedBowlBistro.md)
+- [Sushi/SC/Lexington/RedBowlBistro](SC/Lexington/RedBowlBistro.md)
 
 |   |
 |---|
